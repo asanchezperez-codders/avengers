@@ -1,4 +1,4 @@
 # Villanos
 
-* Red Scull
+* Red SKull
 * Thanos
