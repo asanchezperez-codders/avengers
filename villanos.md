@@ -2,3 +2,4 @@
 
 * Red SKull
 * Thanos
+* Capitán America
